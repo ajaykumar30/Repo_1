@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 3C1F-7904
+
+ Directory of C:\Users\VIJJU\Desktop\Myproject
+
+04/07/2017  07:05 PM    <DIR>          .
+04/07/2017  07:05 PM    <DIR>          ..
+04/07/2017  07:05 PM                 0 text.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  17,245,720,576 bytes free
